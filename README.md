@@ -11,11 +11,11 @@ The repository is organized into the following folders, each showcasing a core O
 
 | 📂 Folder Name           | 🧠 Concept           | 📄 Description |
 |--------------------------|----------------------|----------------|
-| `class-and-objects/`     | Class & Objects       | Basic unit of OOP — contains blueprint and object creation examples. |
-| `inheritance/`           | Inheritance           | Demonstrates how classes can inherit properties and methods. |
-| `polymorphism/`          | Polymorphism          | Shows method overloading and overriding in action. |
-| `abstraction/`           | Abstraction           | Abstract classes and interfaces that hide internal details. |
-| `encapsulation/`         | Encapsulation         | Hides internal state and requires all interaction through methods. |
+| `class_Objects/`     | Class & Objects       | Basic unit of OOP — contains blueprint and object creation examples. |
+| `Inheritance/`           | Inheritance           | Demonstrates how classes can inherit properties and methods. |
+| `Polymorphism/`          | Polymorphism          | Shows method overloading and overriding in action. |
+| `Abstraction/`           | Abstraction           | Abstract classes and interfaces that hide internal details. |
+| `Encapsulation/`         | Encapsulation         | Hides internal state and requires all interaction through methods. |
 
 ---
 
@@ -41,11 +41,3 @@ Covers both:
 > Wrapping data and methods into a single unit (class), and restricting direct access using access modifiers.
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/Java-OOPS-Concepts.git
-   cd Java-OOPS-Concepts
-
